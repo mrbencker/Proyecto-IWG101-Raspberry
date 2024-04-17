@@ -8,6 +8,8 @@ https://www.dropbox.com/scl/fi/qs54mlor0b0l0ub41dog2/picodoom.rar?rlkey=dojpd0vg
 2.-Mantener botón "BOOTSEL", mientras conecta con cable microusb la Raspberry Pi Pico al PC
 
 3.-Copiar archivo "doom_tiny.uf2" al directorio de la Raspberry(RPI-RP2)
+![imagen](https://github.com/mrbencker/raspberry/assets/167112129/e97b6e39-465e-4e10-98f6-1a4f021fdf71)
+
 
 4.-La raspberry se reiniciará, así que hay que desconectarla y conectarla denuevo(teniendo en cuenta el paso 2, mantener botón "BOOTSEL")
 
@@ -16,3 +18,4 @@ https://www.dropbox.com/scl/fi/qs54mlor0b0l0ub41dog2/picodoom.rar?rlkey=dojpd0vg
 6.-Abrir cmd de windows(Windows+R, "cmd") y escribir "cd/picodoom", con esto se entrará al directorio de la carpeta movida en el paso anterior(4)
 
 7.-Escribir "picotool load -v -t bin doom1.whx -o 0x10040000", esto va a escribir el contenido del firmware adicional a la memoria de la Raspberry
+  
