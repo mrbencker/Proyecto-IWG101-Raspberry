@@ -27,4 +27,16 @@ https://www.dropbox.com/scl/fi/qs54mlor0b0l0ub41dog2/picodoom.rar?rlkey=dojpd0vg
 
 ![imagen](https://github.com/mrbencker/raspberry/assets/167112129/2cea99b8-7d58-4fbf-a282-bfee94582a2e)
 
-  
+********Acá es donde saldrá un error de drivers**********
+
+![image](https://github.com/mrbencker/raspberry/assets/167112129/8f9ecb8a-a898-43cc-8ae2-431d217d01ec)
+
+8.- Instalar Zadig USB driver installer: https://zadig.akeo.ie/#google_vignette
+
+9.-Abrir el programa e instalar drivers en el puerto RP2 BOOT(Interface 1)
+
+![image](https://github.com/mrbencker/raspberry/assets/167112129/645793ff-dd3d-4756-84e0-a9969afd95a0)
+
+10.-Nuevamente, hacer el paso 7(escribir "picotool load -v -t bin doom1.whx -o 0x10040000" en cmd cd/picodoom)
+
+11.-
