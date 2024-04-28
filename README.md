@@ -38,4 +38,5 @@ https://www.dropbox.com/scl/fi/qs54mlor0b0l0ub41dog2/picodoom.rar?rlkey=dojpd0vg
 ![image](https://github.com/mrbencker/raspberry/assets/167112129/645793ff-dd3d-4756-84e0-a9969afd95a0)
 
 10.-Nuevamente, hacer el paso 7(escribir "picotool load -v -t bin doom1.whx -o 0x10040000" en cmd cd/picodoom)
+
 *Acá es donde termina la instalación del firmware a la Raspberry*
