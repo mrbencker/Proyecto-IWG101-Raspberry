@@ -51,11 +51,11 @@ https://www.dropbox.com/scl/fi/qs54mlor0b0l0ub41dog2/picodoom.rar?rlkey=dojpd0vg
 ![WhatsApp Image 2024-05-15 at 11 02 27 AM(2)](https://github.com/mrbencker/raspberry/assets/167112129/bc39b82e-7e1c-44b6-ac74-263cc497e6bd)
 ![image](https://github.com/mrbencker/raspberry/assets/167332513/17a9f618-b195-4558-be8a-c7cc9b298479)
 
--con ayuda de esta imagen conectamos los cables correspondientes de la raspberry en la protobpard a la pantalla.
+-Con ayuda de este tipo de imagen conectamos los cables correspondientes de la raspberry en la protoboard a la pantalla.
 
 ![WhatsApp Image 2024-05-15 at 11 02 28 AM](https://github.com/mrbencker/raspberry/assets/167112129/05359b35-9c22-446f-a387-f6d8f39b5a19)
 ![WhatsApp Image 2024-05-15 at 11 02 28 AM(1)](https://github.com/mrbencker/raspberry/assets/167112129/822f8927-ae88-4ee3-9961-e1d1a279cb6e)
 ![WhatsApp Image 2024-05-15 at 11 02 27 AM(1)](https://github.com/mrbencker/raspberry/assets/167112129/da14a1c2-6f82-4e12-befc-b4e32643c49e)
 
-Conectado todo a la pantalla y con el DOOM instalado ya en la raspberry, la pantalla emula el juego de manera correcta.
+Conectado todo a la pantalla y con el DOOM instalado ya en la raspberry, la pantalla emula el juego de manera correcta, solo falta la instalación de los botones.
 
