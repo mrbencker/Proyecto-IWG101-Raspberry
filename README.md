@@ -2,6 +2,8 @@
 
 Como correr Doom64 en Raspberry Pi pico
 
+#Parte Firmware
+
 1.-Descargar los archivos necesarios en el siguiente link:
 https://www.dropbox.com/scl/fi/qs54mlor0b0l0ub41dog2/picodoom.rar?rlkey=dojpd0vgtn756uu4eg8v3kjxi&dl=0
 
@@ -40,3 +42,11 @@ https://www.dropbox.com/scl/fi/qs54mlor0b0l0ub41dog2/picodoom.rar?rlkey=dojpd0vg
 10.-Nuevamente, hacer el paso 7(escribir "picotool load -v -t bin doom1.whx -o 0x10040000" en cmd cd/picodoom)
 
 *Acá es donde termina la instalación del firmware a la Raspberry*
+
+#Parte instalación hardware
+![WhatsApp Image 2024-05-15 at 11 02 27 AM](https://github.com/mrbencker/raspberry/assets/167112129/f8db5971-c208-415c-bb2d-6b2b89cd22d2)
+![WhatsApp Image 2024-05-15 at 11 02 27 AM(1)](https://github.com/mrbencker/raspberry/assets/167112129/da14a1c2-6f82-4e12-befc-b4e32643c49e)
+![WhatsApp Image 2024-05-15 at 11 02 27 AM(2)](https://github.com/mrbencker/raspberry/assets/167112129/bc39b82e-7e1c-44b6-ac74-263cc497e6bd)
+![WhatsApp Image 2024-05-15 at 11 02 28 AM](https://github.com/mrbencker/raspberry/assets/167112129/05359b35-9c22-446f-a387-f6d8f39b5a19)
+![WhatsApp Image 2024-05-15 at 11 02 28 AM(1)](https://github.com/mrbencker/raspberry/assets/167112129/822f8927-ae88-4ee3-9961-e1d1a279cb6e)
+
