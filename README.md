@@ -82,6 +82,8 @@ Lista de conexiones de botones:
 
 -GP3  B
 
-Estos estarán conectados 
+Estos estarán conectados en una placa PCB de 5x7[cm]
 ![stock-pictures2f14152fpcb20una20cara205x7-1](https://github.com/mrbencker/raspberry/assets/167112129/fca9b98a-cfa1-47f7-a541-85040bef6a9f)
 -Placa (5x7)[cm] PCB
+
+
