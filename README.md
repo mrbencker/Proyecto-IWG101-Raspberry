@@ -58,6 +58,9 @@ https://www.dropbox.com/scl/fi/qs54mlor0b0l0ub41dog2/picodoom.rar?rlkey=dojpd0vg
 ![WhatsApp Image 2024-05-15 at 11 02 27 AM(1)](https://github.com/mrbencker/raspberry/assets/167112129/da14a1c2-6f82-4e12-befc-b4e32643c49e)
 
 -Conectado todo a la pantalla y con el DOOM instalado ya en la raspberry, la pantalla emula el juego de manera correcta, solo falta la instalación de los botones.
+
+
+
 **CONEXIÓN DE BOTONES**
 El juego necesita de 7 botones para funcionar, los cuales estarán conectados en los siguientes puertos de la raspberry:
 
