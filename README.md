@@ -62,10 +62,17 @@ https://www.dropbox.com/scl/fi/qs54mlor0b0l0ub41dog2/picodoom.rar?rlkey=dojpd0vg
 ![stock-pictures2f14152fpcb20una20cara205x7-1](https://github.com/mrbencker/raspberry/assets/167112129/fca9b98a-cfa1-47f7-a541-85040bef6a9f)
 -Placa (5x7)[cm] PCB
 Lista de conexiones de botones:
+
 -GP5  Abajo
+
 -GP6  Derecha
+
 -GP8  Izquierda
+
 -GP9  Arriba
+
 -GP4  Menú
+
 -GP2  A
+
 -GP3  B
