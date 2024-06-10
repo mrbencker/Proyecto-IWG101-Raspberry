@@ -62,6 +62,7 @@ https://www.dropbox.com/scl/fi/qs54mlor0b0l0ub41dog2/picodoom.rar?rlkey=dojpd0vg
 
 
 **CONEXIÓN DE BOTONES**
+
 El juego necesita de 7 botones para funcionar, los cuales estarán conectados en los siguientes puertos de la raspberry:
 
 
