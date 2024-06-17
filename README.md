@@ -62,8 +62,23 @@ https://www.dropbox.com/scl/fi/qs54mlor0b0l0ub41dog2/picodoom.rar?rlkey=dojpd0vg
 
 **CONEXIÓN DE PANTALLA**
 
--
+-3v3(OUT) / LCD vcc
 
+-LED / VCC y LED
+
+-GND / LCD GND
+
+-GP17 / LCD CS
+
+-GP21 / LCD RST
+
+-GP20 / LCD DC
+
+-GP19 / LCD MOSI
+
+-GP18 / LCD SCK
+
+-GP16 / LCD MISO
 
 **CONEXIÓN DE BOTONES**
 
