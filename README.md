@@ -1,4 +1,5 @@
 # Doom en Raspberry Pi Pico IWG-101
+**Basado en video: https://www.youtube.com/watch?v=V7MJyu1sFCM**
 
 Como correr Doom64 en Raspberry Pi pico
 
