@@ -3,6 +3,16 @@
 
 Como correr Doom64 en Raspberry Pi pico
 
+#Cosas necesarias:
+
+-Pantalla LCD
+![shield-tft](https://github.com/mrbencker/raspberry/assets/167112129/aa0da6b7-bb79-4045-ade7-252873555433)
+-Placa (5x7)[cm] PCB
+![stock-pictures2f14152fpcb20una20cara205x7-1](https://github.com/mrbencker/raspberry/assets/167112129/fca9b98a-cfa1-47f7-a541-85040bef6a9f)
+
+
+
+
 #Parte Firmware
 
 1.-Descargar los archivos necesarios en el siguiente link:
@@ -47,7 +57,7 @@ https://www.dropbox.com/scl/fi/qs54mlor0b0l0ub41dog2/picodoom.rar?rlkey=dojpd0vg
 #Parte instalación hardware
 ![WhatsApp Image 2024-05-15 at 11 02 27 AM](https://github.com/mrbencker/raspberry/assets/167112129/f8db5971-c208-415c-bb2d-6b2b89cd22d2)
 
--hicimos uso de una pantalla LCD de 2,4 pulgadas.
+-acá hacemos uso de una pantalla LCD de 2,4 pulgadas.
 
 ![WhatsApp Image 2024-05-15 at 11 02 27 AM(2)](https://github.com/mrbencker/raspberry/assets/167112129/bc39b82e-7e1c-44b6-ac74-263cc497e6bd)
 ![image](https://github.com/mrbencker/raspberry/assets/167332513/17a9f618-b195-4558-be8a-c7cc9b298479)
@@ -103,7 +113,6 @@ Lista de conexiones de botones:
 -GP3  B
 
 Estos estarán conectados en una placa PCB de 5x7[cm]
-![stock-pictures2f14152fpcb20una20cara205x7-1](https://github.com/mrbencker/raspberry/assets/167112129/fca9b98a-cfa1-47f7-a541-85040bef6a9f)
--Placa (5x7)[cm] PCB
+
 
 
