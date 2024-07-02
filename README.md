@@ -61,10 +61,6 @@ https://www.dropbox.com/scl/fi/qs54mlor0b0l0ub41dog2/picodoom.rar?rlkey=dojpd0vg
 
 -Acá se hará uso de la pantalla LCD de 2,4 pulgadas.
 
-![WhatsApp Image 2024-05-15 at 11 02 27 AM](https://github.com/mrbencker/raspberry/assets/167112129/f8db5971-c208-415c-bb2d-6b2b89cd22d2)
-
-**Instalación Hardware**
-
 ![image](https://github.com/mrbencker/raspberry/assets/167332513/17a9f618-b195-4558-be8a-c7cc9b298479)
 
 -Con ayuda de este tipo de imagen conectamos los cables correspondientes de la raspberry en la protoboard a la pantalla.
@@ -118,6 +114,10 @@ Lista de conexiones de botones:
 -GP3  B
 
 Estos estarán conectados en la placa PCB de 5x7[cm] mostrada al inicio
+
+![WhatsApp Image 2024-05-15 at 11 02 27 AM](https://github.com/mrbencker/raspberry/assets/167112129/f8db5971-c208-415c-bb2d-6b2b89cd22d2)
+
+
 
 
 
