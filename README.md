@@ -59,24 +59,20 @@ https://www.dropbox.com/scl/fi/qs54mlor0b0l0ub41dog2/picodoom.rar?rlkey=dojpd0vg
 #Parte instalación hardware
 ![WhatsApp Image 2024-05-15 at 11 02 27 AM(2)](https://github.com/mrbencker/raspberry/assets/167112129/bc39b82e-7e1c-44b6-ac74-263cc497e6bd)
 
--Acá se hará uso de la pantalla LCD de 2,4 pulgadas.
+-Acá se hará uso de la pantalla LCD de 2,4 pulgadasy la placa PCB de 5x7[cm] mostrada al inicio
 
-![image](https://github.com/mrbencker/raspberry/assets/167332513/17a9f618-b195-4558-be8a-c7cc9b298479)
 
--Con ayuda de este tipo de imagen conectamos los cables correspondientes de la raspberry en la protoboard a la pantalla.
-
-![WhatsApp Image 2024-05-15 at 11 02 28 AM](https://github.com/mrbencker/raspberry/assets/167112129/05359b35-9c22-446f-a387-f6d8f39b5a19)
-![WhatsApp Image 2024-05-15 at 11 02 28 AM(1)](https://github.com/mrbencker/raspberry/assets/167112129/822f8927-ae88-4ee3-9961-e1d1a279cb6e)
-![WhatsApp Image 2024-05-15 at 11 02 27 AM(1)](https://github.com/mrbencker/raspberry/assets/167112129/da14a1c2-6f82-4e12-befc-b4e32643c49e)
-
--Conectado todo a la pantalla y con el DOOM instalado ya en la raspberry, la pantalla emula el juego de manera correcta, solo falta la instalación de los botones.
 
 
 **CONEXIÓN DE PANTALLA**
 
--3v3(OUT) / LCD vcc
 
--LED / VCC y LED
+![image](https://github.com/mrbencker/raspberry/assets/167332513/17a9f618-b195-4558-be8a-c7cc9b298479)
+
+-Con ayuda de esta imagen conectamos los cables correspondientes de la raspberry en la protoboard a la pantalla de la siguiente manera:
+
+
+-3v3(OUT) / LCD vcc, LCD Led(ambas necesitan corriente)
 
 -GND / LCD GND
 
@@ -91,6 +87,14 @@ https://www.dropbox.com/scl/fi/qs54mlor0b0l0ub41dog2/picodoom.rar?rlkey=dojpd0vg
 -GP18 / LCD SCK
 
 -GP16 / LCD MISO
+
+**Imágenes de referencia
+
+![WhatsApp Image 2024-05-15 at 11 02 28 AM](https://github.com/mrbencker/raspberry/assets/167112129/05359b35-9c22-446f-a387-f6d8f39b5a19)
+![WhatsApp Image 2024-05-15 at 11 02 28 AM(1)](https://github.com/mrbencker/raspberry/assets/167112129/822f8927-ae88-4ee3-9961-e1d1a279cb6e)
+![WhatsApp Image 2024-05-15 at 11 02 27 AM(1)](https://github.com/mrbencker/raspberry/assets/167112129/da14a1c2-6f82-4e12-befc-b4e32643c49e)
+
+-Conectado todo a la pantalla y con el DOOM instalado ya en la raspberry, la pantalla emula el juego de manera correcta, solo falta la instalación de los botones.
 
 **CONEXIÓN DE BOTONES**
 
@@ -113,7 +117,8 @@ Lista de conexiones de botones:
 
 -GP3  B
 
-Estos estarán conectados en la placa PCB de 5x7[cm] mostrada al inicio
+**Obviamente usando la foto anterior de referencia
+
 
 ![WhatsApp Image 2024-05-15 at 11 02 27 AM](https://github.com/mrbencker/raspberry/assets/167112129/f8db5971-c208-415c-bb2d-6b2b89cd22d2)
 
