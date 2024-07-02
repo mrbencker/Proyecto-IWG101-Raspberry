@@ -98,7 +98,7 @@ https://www.dropbox.com/scl/fi/qs54mlor0b0l0ub41dog2/picodoom.rar?rlkey=dojpd0vg
 
 **CONEXIÓN DE BOTONES**
 
-El juego necesita de 7 botones para funcionar, los cuales estarán conectados en los siguientes puertos de la raspberry:
+El juego necesita de 7 botones para funcionar, los cuales estarán conectados en los siguientes puertos desde la raspberry a la placa PCB
 
 
 Lista de conexiones de botones:
@@ -117,9 +117,15 @@ Lista de conexiones de botones:
 
 -GP3  B
 
-**Obviamente usando la foto anterior de referencia
+Es recomendable usar un alambre de "tierra común", para así ahorrar recursos y simplificar la instalación, como hicimos nosotros.
 
+**Todo esto obviamente usando la foto anterior de referencia
 
+Finalmente, ya debería funcionar en plenidad el juego, es decir, viendose en la pantalla y pudiendo usar los botones de la forma correspondiente.
+
+**Conclusión**
+
+Fue un proyecto que creímos que iba a ser fácil, de hecho ibamos con primer propósito de innovar un poco más y usar un infrarrojo o un tipo de sensor de gestos, para así no simplemente copiar lo que hizo alguien más, sin embargo, al ser la primera experiencia de todos con la electrónica, la instalación de botones y pantalla no era tarea fácil que podíamos hacer a la rápida. De hecho, teníamos pensado hasta como serían los movimientos y su respectivo comando dentro del juego, ya que, al ser un juego antiguo, el movimiento es más arcáico, donde ni siquiera te mueves hacia los lados, sino que solo te mueves hacia atrás y adelante y solo cambias hacia donde miras. De todas maneras, además de esa problemática de primera experiencia con la electrónica, también hubo un problema(el cual viene solucionado en este mismo github) que sólo ocurría con nuestras raspberrys, donde parecía tener los drivers desactualizados la raspberry, sin embargo logramos solucionarlo. Fue un divertido proyecto sobre todo, pero nos quedamos con la motivación de haber innovar un poco más y que tal vez para un próximo proyecto sí seamos capaces de, por lo menos, instalar un set de botones básicos y una pantalla en menos tiempo.
 
 
 
