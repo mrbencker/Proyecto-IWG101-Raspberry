@@ -59,9 +59,10 @@ https://www.dropbox.com/scl/fi/qs54mlor0b0l0ub41dog2/picodoom.rar?rlkey=dojpd0vg
 #Parte instalación hardware
 ![WhatsApp Image 2024-05-15 at 11 02 27 AM(2)](https://github.com/mrbencker/raspberry/assets/167112129/bc39b82e-7e1c-44b6-ac74-263cc497e6bd)
 
+-Acá se hará uso de la pantalla LCD de 2,4 pulgadas.
+
 ![WhatsApp Image 2024-05-15 at 11 02 27 AM](https://github.com/mrbencker/raspberry/assets/167112129/f8db5971-c208-415c-bb2d-6b2b89cd22d2)
 
--Acá se hará uso de la pantalla LCD de 2,4 pulgadas.
 
 
 ![image](https://github.com/mrbencker/raspberry/assets/167332513/17a9f618-b195-4558-be8a-c7cc9b298479)
