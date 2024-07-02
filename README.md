@@ -6,7 +6,7 @@ Como correr Doom64 en Raspberry Pi pico
 #Cosas necesarias:
 
 -Pantalla LCD
-![shield-tft](https://github.com/mrbencker/raspberry/assets/167112129/aa0da6b7-bb79-4045-ade7-252873555433)
+![WhatsApp Image 2024-05-15 at 11 02 27 AM](https://github.com/mrbencker/raspberry/assets/167112129/f8db5971-c208-415c-bb2d-6b2b89cd22d2)
 
 
 -Placa (5x7)[cm] PCB
@@ -120,7 +120,7 @@ Lista de conexiones de botones:
 **Obviamente usando la foto anterior de referencia
 
 
-![WhatsApp Image 2024-05-15 at 11 02 27 AM](https://github.com/mrbencker/raspberry/assets/167112129/f8db5971-c208-415c-bb2d-6b2b89cd22d2)
+
 
 
 
