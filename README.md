@@ -1,5 +1,5 @@
 # Doom en Raspberry Pi Pico IWG-101
-**Basado en video: https://www.youtube.com/watch?v=V7MJyu1sFCM**
+**Video fuente: https://www.youtube.com/watch?v=V7MJyu1sFCM**
 
 Como correr Doom64 en Raspberry Pi pico
 
@@ -112,7 +112,7 @@ Lista de conexiones de botones:
 
 -GP3  B
 
-Estos estarán conectados en una placa PCB de 5x7[cm]
+Estos estarán conectados en la placa PCB de 5x7[cm] mostrada al inicio
 
 
 
